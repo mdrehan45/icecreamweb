@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+#smain{
+background-color: #f4f3f6;
+}
+#pinkbg{
+    background-color: rgb(255, 232, 236);
+}
+#pin-green{
+    background-color: #74b958;
+}
+#fmain{
+    background-color:#f4f3f6 ;
+}
+
+
